@@ -1,0 +1,17 @@
+# Core dependencies
+flask==3.0.0                    # Lightweight web framework for Python
+gunicorn==21.2.0                 # Production WSGI server for Flask applications
+flask-cors==4.0.0                # Handle Cross-Origin Resource Sharing (CORS)
+
+# Data processing and manipulation
+pandas==2.2.0                    # Data analysis and manipulation library
+numpy==1.26.3                    # Numerical computing library
+
+# Environment management
+python-dotenv==1.0.1              # Load environment variables from .env file
+
+# Logging and monitoring
+loguru==0.7.2                     # Advanced logging capabilities
+
+# Deployment and security
+werkzeug==3.0.1                    # WSGI utilities for Flask applications
